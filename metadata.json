@@ -1,0 +1,6 @@
+{
+  "name": "Placement Preparation Tracker",
+  "description": "Comprehensive student placement preparation web application with skill tracking, aptitude tests, reasoning quizzes, company analysis, jobs, resume reviewer, and career roadmaps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
